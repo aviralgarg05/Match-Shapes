@@ -1,5 +1,5 @@
 # Matching shapes
-This python script shows the degree of matching of shapes.
+This python script shows the degree of matching of shapes by analysing using opencv library in a tkinter gui interface.
 
 ## Setup Instructions
 ### Install python3
